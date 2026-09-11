@@ -1,0 +1,28 @@
+﻿# Visual Studio user-specific files
+*.user
+*.suo
+
+# Visual Studio workspace
+.vs/
+
+# Build directories
+x64/
+Debug/
+Release/
+
+# Compiler and linker output
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ilk
+
+# Visual Studio build metadata
+*.tlog
+*.lastbuildstate
+*.VC.db
+*.VC.VC.opendb
+
+# Temporary files
+*.log
+*.tmp
